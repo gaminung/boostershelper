@@ -26,123 +26,62 @@ body {
     left: 0;
 }
 .capa-2 {
-    width: 600px;
-    height: 600px;
+    width: 300px;
+    height: 320px;
     position: absolute;
-    background: url();
+    background: url(https://media.tenor.com/images/7c710dc1dec72ef3efe541b869718302/tenor.gif);
     background-repeat: no-repeat;
-    background-size: 150px;
-    opacity: 0.8;
+    background-size: 250px;
 
-    top: 600px;
-    left: 20px;
+    top: 180px;
+    left: 1200px;
 }
-.discord1 {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    text-decoration: none;
+.titleabout {
+    width: 900px;
+    height: 30px;;
     position: absolute;
-    display: inline-block;
-    top: 252px;
-    left: 1078px;
-    color:hsla(0, 0%, 0%, 0.404);
-    font-size: 50px;
-    font-weight: 900;
+    top: 95px;
+    left: 195px;
+    font-size: 75px;
+    color: rgb(218, 237, 238);
 }
-.discord2 {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    position: absolute;
-    display: inline-block;
-    top: 250px;
-    left: 1000px;
-    color:hsl(245, 61%, 88%);
-    font-size: 50px;
-    font-weight: 900;
-}
-.textclick {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    position: absolute;
-    display: inline-block;
-    top: 585px;
-    left: 190px;
-    color:rgb(213, 229, 243);
-    font-size: 50px;
-    font-weight: 900;
-}
-.link {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    position: absolute;
-    display: inline-block;
-    top: 650px;
-    left: 190px;
-    color:rgb(240, 227, 243);
-    font-size: 35px;
-    font-weight: 900;
-}
-.link:hover {
-    text-align: center;
-    display: flex;
-    align-items: center;
+.ask1 {
+    width: 900px;
+    height: 30px;;
     text-decoration: underline;
     position: absolute;
-    display: inline-block;
-    top: 650px;
-    left: 190px;
-    color:rgb(212, 219, 235);
-    font-size: 35px;
-    font-weight: 900;
+    top: 250px;
+    left: 195px;
+    font-size: 33px;
+    color: wheat;
 }
-.example1 {
-    width: 800px;
-    height: 422px;
+.ask2 {
+    width: 900px;
+    height: 30px;;
+    text-decoration: underline;
     position: absolute;
-    background: url(https://media.discordapp.net/attachments/855414287274213417/855675944106459146/Example1.PNG?width=972&height=513);
-    background-repeat: no-repeat;
-    background-size: 800px;
-    background: rgba(27, 9, 36, 0.712);
-    top: 330px;
-    left: 750px;
+    top: 500px;
+    left: 195px;
+    font-size: 33px;
+    color: wheat;
 }
-.example2 {
-    width: 800px;
-    height: 440px;
+.answer1 {
+    width: 900px;
+    height: 30px;
     position: absolute;
-    background: url(https://media.discordapp.net/attachments/855414287274213417/855675944106459146/Example1.PNG?width=972&height=513);
-    background-repeat: no-repeat;
-    background-size: 800px;
-    top: 340px;
-    left: 760px;
+    top: 320px;
+    left: 195px;
+    font-size: 33px;
+    color: rgb(255, 249, 239);
 }
-.example3 {
-    width: 595px;
-    height: 395px;
+.answer2 {
+    width: 900px;
+    height: 30px;
     position: absolute;
-    background: url(https://media.discordapp.net/attachments/855414287274213417/855414350062682112/Your_Own_Role.PNG?width=774&height=513);
-    background-repeat: no-repeat;
-    background-size: 600px;
-    background: rgba(27, 9, 36, 0.712);
-    top: 70px;
-    left: 70px;
-}
-.example4 {
-    width: 800px;
-    height: 800px;
-    position: absolute;
-    background: url(https://media.discordapp.net/attachments/855414287274213417/855414350062682112/Your_Own_Role.PNG?width=774&height=513);
-    background-repeat: no-repeat;
-    background-size: 600px;
-    top: 80px;
-    left: 80px;
+    top: 570px;
+    left: 195px;
+    font-size: 33px;
+    color: rgb(255, 249, 239);
 }
 .header {
     width: 100%;
