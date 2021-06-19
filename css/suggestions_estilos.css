@@ -189,7 +189,7 @@ body {
 .cont-menu {
     width: 100%;
     max-width: 250px;
-    background: #273b24;
+    background: #24343b;
     height: 100vh;
     position: relative;
     transition: all 500ms ease;
