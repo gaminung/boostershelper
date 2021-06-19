@@ -31,21 +31,35 @@ body {
     position: absolute;
     background: url(https://media.discordapp.net/attachments/855414287274213417/855648236190433300/discord_logo.png?width=513&height=513);
     background-repeat: no-repeat;
+    background-size: 250px;
     opacity: 0.8;
 
     top: 70px;
-    left: 525px;
+    left: 20px;
 }
-.discord {
+.discord1 {
     text-align: center;
     display: flex;
     align-items: center;
     text-decoration: none;
     position: absolute;
     display: inline-block;
-    top: 505px;
-    left: 435px;
-    color:hsl(245, 25%, 90%);
+    top: 72px;
+    left: 378px;
+    color:hsla(0, 0%, 0%, 0.404);
+    font-size: 50px;
+    font-weight: 900;
+}
+.discord2 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    position: absolute;
+    display: inline-block;
+    top: 70px;
+    left: 300px;
+    color:hsl(245, 61%, 88%);
     font-size: 50px;
     font-weight: 900;
 }
@@ -57,7 +71,7 @@ body {
     position: absolute;
     display: inline-block;
     top: 600px;
-    left: 500px;
+    left: 650px;
     color:rgb(225, 187, 233);
     font-size: 35px;
     font-weight: 900;
@@ -70,10 +84,31 @@ body {
     position: absolute;
     display: inline-block;
     top: 605px;
-    left: 490px;
+    left: 640px;
     color:rgb(154, 175, 221);
     font-size: 37px;
     font-weight: 900;
+}
+.example1 {
+    width: 800px;
+    height: 422px;
+    position: absolute;
+    background: url(https://media.discordapp.net/attachments/855414287274213417/855675944106459146/Example1.PNG?width=972&height=513);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background: rgba(27, 9, 36, 0.712);
+    top: 330px;
+    left: 750px;
+}
+.example2 {
+    width: 800px;
+    height: 440px;
+    position: absolute;
+    background: url(https://media.discordapp.net/attachments/855414287274213417/855675944106459146/Example1.PNG?width=972&height=513);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    top: 340px;
+    left: 760px;
 }
 .header {
     width: 100%;
