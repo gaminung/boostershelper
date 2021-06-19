@@ -58,7 +58,7 @@ body {
     display: inline-block;
     top: 625px;
     left: 400px;
-    color:rgb(206, 184, 223);
+    color:rgb(224, 212, 233);
     font-size: 100px;
     font-weight: 900;
 }
@@ -161,7 +161,7 @@ body {
 .cont-menu label{
     position: absolute;
     right: 5px;
-    top: 10px;
+    top: 0px;
     color: #fff;
     cursor: pointer;
     font-size: 18px;
