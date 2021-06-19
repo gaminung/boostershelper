@@ -63,6 +63,19 @@ body {
     font-size: 50px;
     font-weight: 900;
 }
+.textclick {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    position: absolute;
+    display: inline-block;
+    top: 585px;
+    left: 190px;
+    color:rgb(213, 229, 243);
+    font-size: 50px;
+    font-weight: 900;
+}
 .link {
     text-align: center;
     display: flex;
@@ -70,10 +83,10 @@ body {
     text-decoration: none;
     position: absolute;
     display: inline-block;
-    top: 630px;
+    top: 650px;
     left: 190px;
     color:rgb(240, 227, 243);
-    font-size: 70px;
+    font-size: 35px;
     font-weight: 900;
 }
 .link:hover {
@@ -83,10 +96,10 @@ body {
     text-decoration: underline;
     position: absolute;
     display: inline-block;
-    top: 630px;
+    top: 650px;
     left: 190px;
     color:rgb(212, 219, 235);
-    font-size: 70px;
+    font-size: 35px;
     font-weight: 900;
 }
 .example1 {
